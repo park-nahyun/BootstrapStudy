@@ -1,0 +1,5 @@
+AbstractTextEditor.Color.Background=28,31,34
+eclipse.preferences.version=1
+findIndicationColor=34,42,86
+org.eclipse.cdt.ui.writeOccurrenceIndicationColor=47,47,3
+overviewRuler_migration=migrated_3.1
